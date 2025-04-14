@@ -1,0 +1,7 @@
+计算器的用法文档
+
+1. 加法 windows.add(x, y)
+2. 减法 windows.sub(x, y)
+3. 乘法 windows.multi(x, y)
+4. 除法 windows.div(x, y)
+5. 取余 windows.mod(x, y)
