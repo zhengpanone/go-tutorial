@@ -1,0 +1,13 @@
+go 1.24.1
+use (
+	context_demo
+	cobra_demo
+	react-go-tutorial
+	grpc_demo
+	mail_demo
+	mock_test
+	mqtt-demo
+	opencv_demo
+	wasm_package
+	webassembly_demo
+)
