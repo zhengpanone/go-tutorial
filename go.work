@@ -1,4 +1,5 @@
 go 1.24.1
+
 use (
 	context_demo
 	cobra_demo
@@ -10,4 +11,5 @@ use (
 	opencv_demo
 	wasm_package
 	webassembly_demo
+	casbin_demo
 )
